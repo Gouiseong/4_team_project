@@ -50,7 +50,7 @@
 						<td>${article.updateDate }</td>
 					</tr>
 					<tr>
-						<th>작성자</th>
+						<th>작asdf성자</th>
 						<td>${article.extra__writer }</td>
 					</tr>
 					<tr>
