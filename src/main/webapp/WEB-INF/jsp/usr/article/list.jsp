@@ -37,8 +37,8 @@
 				<th>제목</th>
 				<th>작성자</th>
 				<th>조회수</th>
-				<th>좋아요</th>
-				<th>싫어요</th>
+				<th>좋아요</th>e
+				<th>싫ewqewqeq어요</th>
 
 			</tr>
 		</thead>
